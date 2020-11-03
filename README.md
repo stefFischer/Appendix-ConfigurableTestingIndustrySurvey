@@ -8,7 +8,7 @@
 #### Online Appendix
 
 This is the online appendix for an industry study of testing highly configurable cyber-physical systems.
-The appendix includes the **questionnaire** that was answered by 19 practitioners in our study, and the **interview guides**, which was used in semi-structured interviews with 13 practitioners.
+The appendix includes the **questionnaire** that was answered by 19 practitioners in our study, and the **interview guide**, which was used in semi-structured interviews with 13 practitioners.
 
 
 #### Abstract:

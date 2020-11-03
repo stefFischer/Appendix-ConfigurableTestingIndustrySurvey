@@ -1,11 +1,17 @@
 # Testing of Highly Configurable Cyber-Physical Systems -- A Multiple Case Study
-Online Appendix
+
+- Stefan Fischer
+- Rudolf Ramler
+- Claus Klammer
+- Rick Rabiser
+
+#### Online Appendix
 
 This is the online appendix for an industry study of testing highly configurable cyber-physical systems.
 The appendix includes the questionnaire that was answered by 19 practitioners in our study, and the interview guides, which was used in semi-structured interviews with 13 practitioners.
 
 
-###Abstract:
+#### Abstract:
 
 Cyber-physical systems, i.e., systems that seamlessly integrate computation and physical components, are commonly realized as  highly-configurable systems. 
 Testing such systems is particularly challenging because they typically comprise a large number of heterogeneous components that can be configured and combined in different ways. 

@@ -13,10 +13,10 @@ The appendix includes the **questionnaire** that was answered by 19 practitioner
 
 #### Abstract:
 
-Cyber-physical systems, i.e., systems that seamlessly integrate computation and physical components, are commonly realized as  highly-configurable systems. 
+Cyber-physical systems, i.e., systems that seamlessly integrate computation and physical components, are commonly realized as highly-configurable systems. 
 Testing such systems is particularly challenging because they typically comprise a large number of heterogeneous components that can be configured and combined in different ways. 
 Despite a plethora of work investigating software product line testing in particular and software testing in general, variability in tests and how industry does actually manage testing highly configurable cyber-physical systems is not well understood. 
 In this paper, we report the results of a multiple case study we conducted with three companies developing and maintaining highly-configurable cyber-physical systems focusing on their testing practices, with a particular focus on how they manage variability in tests. 
-We conclude that currently experienced based selection of configurations for testing is predominant.
+We conclude that experienced-based selection of configurations for testing is currently predominant.
 Variability modeling techniques are not utilized and the dependencies between configuration options are only partially modeled at best. 
-But the companies are aware of the situation and have the need and desire to cover more configuration combinations by automated tests, which in turn raises many questions which might also be of interest to the science community for future research. 
+However, the companies are aware of the situation and have the need and desire to cover more configuration combinations by automated tests. This in turn raises many questions, which might also be of interest to the scientific community and motivate future research. 
